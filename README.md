@@ -13,6 +13,7 @@ The platform bridges the gap between candidates and recruiters by offering an in
 -jWT-based authentication
 -Role-based user access
 -Persistent user profiles
+
 ##Resume Analysis
 -Resume upload and parsing
 -ATS score generation
