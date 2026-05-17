@@ -19,20 +19,24 @@ The platform bridges the gap between candidates and recruiters by offering an in
 -ATS score generation
 -Skill extraction
 -Resume improvement suggestions
+
 ##Practice & Assessment
 -AI-generated technical questions
 -Multiple difficulty levels
 -MCQ, theory, and coding rounds
 -Adaptive scoring system
+
 ##Communication Evaluation
 Voice-based communication analysis
 Speech-to-text integration
 Communication scoring
+
 ##Real Interview Simulation
 Multi-round interview process
 Anti-cheat monitoring
 Coding assessments
 Performance tracking
+
 ##Recruiter Insights
 Candidate evaluation reports
 Skill analysis
