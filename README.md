@@ -1,69 +1,80 @@
-Virtual Mock Interview Traing System Using AI
-Overview
+#Virtual Mock Interview Traing System Using AI
+
+##Overview
 
 Virtual Mock Interview Training System using AI is a full-stack web application designed to help job seekers improve their interview readiness through resume analysis, ATS scoring, AI-generated technical assessments, communication evaluation, and recruiter-oriented performance insights.
 
 The platform bridges the gap between candidates and recruiters by offering an intelligent practice environment and structured evaluation system.
 
-Key Features
-User Management
-Secure user registration and login
-JWT-based authentication
-Role-based user access
-Persistent user profiles
-Resume Analysis
-Resume upload and parsing
-ATS score generation
-Skill extraction
-Resume improvement suggestions
-Practice & Assessment
-AI-generated technical questions
-Multiple difficulty levels
-MCQ, theory, and coding rounds
-Adaptive scoring system
-Communication Evaluation
+##Key Features
+
+##User Management
+-Secure user registration and login
+-jWT-based authentication
+-Role-based user access
+-Persistent user profiles
+##Resume Analysis
+-Resume upload and parsing
+-ATS score generation
+-Skill extraction
+-Resume improvement suggestions
+##Practice & Assessment
+-AI-generated technical questions
+-Multiple difficulty levels
+-MCQ, theory, and coding rounds
+-Adaptive scoring system
+##Communication Evaluation
 Voice-based communication analysis
 Speech-to-text integration
 Communication scoring
-Real Interview Simulation
+##Real Interview Simulation
 Multi-round interview process
 Anti-cheat monitoring
 Coding assessments
 Performance tracking
-Recruiter Insights
+##Recruiter Insights
 Candidate evaluation reports
 Skill analysis
 Hiring recommendations
-Technology Stack
-Frontend
+-----
+##Technology Stack
+
+##Frontend
 React.js
 JavaScript
 CSS
 Vite
-Backend
+
+##Backend
 Python
 FastAPI
 SQLAlchemy
-Database
+
+##Database
 SQLite / PostgreSQL
-AI & Tools
+
+##AI & Tools
 Whisper API
 YOLO / OpenCV
 GitHub Copilot-assisted frontend development
-Project Architecture
-Frontend handles user interaction and dashboard
-Backend manages authentication, APIs, and business logic
-Database stores user, resume, and assessment data
-AI modules power scoring, evaluation, and analysis
-Current Functional Status
+-----
+##Project Architecture
+- Frontend handles user interaction and dashboard
+- Backend manages authentication, APIs, and business logic
+- Database stores user, resume, and assessment data
+- AI modules power scoring, evaluation, and analysis
+  ------
+##Current Functional Status
 Backend integration completed
 Real authentication implemented
 Dashboard connected to backend
 Resume module integrated
 Practice module under enhancement
 Real interview module in progress
-Installation Guide
-Clone Repository
+-----
+##Installation Guide
+
+##Clone Repository
 git clone <repository-url>
 cd virtual-mock-interview-system
 
